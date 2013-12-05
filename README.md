@@ -82,3 +82,7 @@ Create the compactor and run it!
     $compactor = new Kpacha\BundleCompactor\Compactor($sourceReader, $compactedWriter, $classMapGenerator);
     $compactor->compact();
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kpacha/bundlecompactor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
