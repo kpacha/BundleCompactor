@@ -1,0 +1,26 @@
+{
+    "license":      "MIT",
+    "authors":      [
+    {
+        "name":      "Kpacha",
+        "email":     "kpacha666@gmail.com"
+    }
+    ],
+    "require": {
+        "symfony/finder": "2.3.*@dev",
+        "andrewsville/php-token-reflection": "~1.3.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~3.7.24"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kpacha\\BundleCompactor\\": "src",
+            "Kpacha\\Tests\\BundleCompactor\\": "tests"
+        }
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
