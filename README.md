@@ -82,3 +82,8 @@ Create the compactor and run it!
     $compactor = new Kpacha\BundleCompactor\Compactor($sourceReader, $compactedWriter, $classMapGenerator);
     $compactor->compact();
 
+##TODO
+
+* fix the sort of the sources to compact
+
+
