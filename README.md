@@ -87,3 +87,6 @@ Create the compactor and run it!
 * fix the sort of the sources to compact
 
 
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kpacha/bundlecompactor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
